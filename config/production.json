@@ -1,6 +1,6 @@
 {
-  "port": "your_port",
-  "jwtSecret": "your_jwtSecret",
+  "port": "server_port",
+  "jwtSecret": "your_private_key",
   "mongoUri": "your_mongodb_uri",
-  "baseUrl": "your_baseUrl"
+  "baseUrl": "your_baseUrl: http://example.com"
 }
